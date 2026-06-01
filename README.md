@@ -3,6 +3,7 @@
 ![Estatus](https://img.shields.io/badge/Estatus-Terminado-brightgreen)
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-Java-orange)
 
+<img width="1983" height="793" alt="emmlg-banner-notes" src="https://github.com/user-attachments/assets/8710c12d-c456-42e0-9232-5c34064469e9" />
 
 
 ## Descripción
@@ -26,4 +27,3 @@ Este repositorio contiene una colección de proyectos y ejercicios desarrollados
 
 ## ✒️ Autor
 **Emmanuel Lopez** | TECNM Comitán
-*Curso de Tópicos Avanzados de Programación*
