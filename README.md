@@ -1,4 +1,4 @@
-# 04TADP - Notas Universitarias (Java)
+# Notas
 
 ![Estatus](https://img.shields.io/badge/Estatus-Terminado-brightgreen)
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-Java-orange)
